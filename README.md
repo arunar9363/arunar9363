@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer, specializing in AI/ML data engineering, NLP, LLM integration, and full-stack development. Skilled in Java, Python, C++, JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, SQL, REST APIs, Scikit-learn, TensorFlow/Keras, Pandas, NumPy, Git, GitHub, and CI/CD. Passionate about building intelligent applications and scalable software solutions.
+I am a passionate software developer interested in building innovative solutions and exploring emerging technologies. I enjoy solving real-world problems, learning new concepts, and developing impactful applications. I believe in continuous learning, creative thinking, and growing as an engineer.
 
 
 ## 🌐 Socials:
