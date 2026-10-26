@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer at Ethara AI, specializing in AI/ML data engineering, NLP, LLM integration, and full-stack development. Skilled in Java, Python, C++, JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, SQL, REST APIs, Scikit-learn, TensorFlow/Keras, Pandas, NumPy, Git, GitHub, and CI/CD. Passionate about building intelligent applications and scalable software solutions.
+Software Engineer, specializing in AI/ML data engineering, NLP, LLM integration, and full-stack development. Skilled in Java, Python, C++, JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, SQL, REST APIs, Scikit-learn, TensorFlow/Keras, Pandas, NumPy, Git, GitHub, and CI/CD. Passionate about building intelligent applications and scalable software solutions.
 
 
 ## 🌐 Socials:
